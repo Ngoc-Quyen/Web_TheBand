@@ -1,0 +1,30 @@
+Thực hành số 1:
+Website mẫu: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+Phân tích dự án: 
+web: one page - thường dùng làm trang giới thiệu
+1. Phân tích
+    1. Header
+    2. Silder
+    3. Content
+        1. About (giới thiệu)
+        2. Tour
+        3. Contact (liên hệ)
+        4. Image
+        5. Footer
+    4. Footer
+2. Dựng base (xây dựng)
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
+
+
+Những thành phần thường gặp của 1 trang web
+1. Header (đầu trang)
+2. Phần điều hướng chính (Navigation)
+3. Hướng cho các bạn biết đang ở đâu (Breadcrumd) 
+4. Thành phần Sidebar (1 thanh đặt ở 1 phía màn hình trái or phải - giống menu) 
+5. Silder (màn trình diễn nội dung chuyển động)
+6. Content (Nội dung chính)
+7. Ảnh quảng cáo (banner)
+8. Footer (Phần cuối - chân trang)
+
